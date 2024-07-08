@@ -1,0 +1,15 @@
+.car-item {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: start;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 30px;
+  border: 2px solid var(--primary-color);
+  border-radius: 10px;
+  &_price {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+}
