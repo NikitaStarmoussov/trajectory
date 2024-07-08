@@ -1,0 +1,11 @@
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.filters-select {
+  min-width: 10rem;
+  width: 10rem;
+}
