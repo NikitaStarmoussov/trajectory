@@ -1,11 +1,10 @@
 export type Car = {
-    id: number;
-    name: string;
-    model: string;
-    year: number;
-    color: string;
-    price: number;
-    latitude: number;
-    longitude: number;
-  }
-  
+  id: number;
+  name: string;
+  model: string;
+  year: number;
+  color: string;
+  price: number;
+  latitude: number;
+  longitude: number;
+};
